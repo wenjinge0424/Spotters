@@ -1,0 +1,184 @@
+PODS:
+  - AAPullToRefresh (1.0.2)
+  - AFNetworking (2.7.0):
+    - AFNetworking/NSURLConnection (= 2.7.0)
+    - AFNetworking/NSURLSession (= 2.7.0)
+    - AFNetworking/Reachability (= 2.7.0)
+    - AFNetworking/Security (= 2.7.0)
+    - AFNetworking/Serialization (= 2.7.0)
+    - AFNetworking/UIKit (= 2.7.0)
+  - "AFNetworking+ImageActivityIndicator (1.0.2)":
+    - AFNetworking (~> 2.0)
+  - AFNetworking/NSURLConnection (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.7.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.7.0)
+  - AFNetworking/Security (2.7.0)
+  - AFNetworking/Serialization (2.7.0)
+  - AFNetworking/UIKit (2.7.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - GoogleMaps (3.0.3):
+    - GoogleMaps/Maps (= 3.0.3)
+  - GoogleMaps/Base (3.0.3)
+  - GoogleMaps/Maps (3.0.3):
+    - GoogleMaps/Base
+  - GooglePlacePicker (3.0.3):
+    - GoogleMaps (= 3.0.3)
+    - GooglePlaces (= 3.0.3)
+  - GooglePlaces (3.0.3):
+    - GoogleMaps/Base (= 3.0.3)
+  - GoogleSignIn (4.4.0):
+    - "GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)"
+    - "GoogleToolboxForMac/NSString+URLArguments (~> 2.1)"
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.2.0):
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+  - GoogleToolboxForMac/Defines (2.2.0)
+  - "GoogleToolboxForMac/NSDictionary+URLArguments (2.2.0)":
+    - GoogleToolboxForMac/DebugUtils (= 2.2.0)
+    - GoogleToolboxForMac/Defines (= 2.2.0)
+    - "GoogleToolboxForMac/NSString+URLArguments (= 2.2.0)"
+  - "GoogleToolboxForMac/NSString+URLArguments (2.2.0)"
+  - GTMSessionFetcher/Core (1.2.1)
+  - GUIPlayerView (0.0.4)
+  - IQDropDownTextField (1.1.1)
+  - IQKeyboardManager (6.2.0)
+  - LDProgressView (1.2.1)
+  - LLSimpleCamera (5.0.0)
+  - LMMediaPlayer (0.6.1)
+  - MBProgressHUD (1.1.0)
+  - MGSwipeTableCell (1.6.8)
+  - NJKWebViewProgress (0.2.3):
+    - NJKWebViewProgress/Core (= 0.2.3)
+    - NJKWebViewProgress/ProgressView (= 0.2.3)
+  - NJKWebViewProgress/Core (0.2.3)
+  - NJKWebViewProgress/ProgressView (0.2.3)
+  - "NSDate+Helpers (1.2.2)"
+  - NSDate-Escort (2.0.1):
+    - NSDate-Escort/ObjC (= 2.0.1)
+  - NSDate-Escort/ObjC (2.0.1)
+  - NSDate-Time-Ago (1.0.1)
+  - NSDate-TimeDifference (1.0.1)
+  - "NSString+Case (1.0.0)"
+  - "NSString+VTContainsSubstring (0.3)"
+  - NSString-Email (0.0.3)
+  - NSString-UrlEncode (2.1.0)
+  - Reachability (3.2)
+  - SDWebImage (4.4.6):
+    - SDWebImage/Core (= 4.4.6)
+  - SDWebImage/Core (4.4.6)
+  - SPGooglePlacesAutocomplete (1.0.6)
+  - SVProgressHUD (2.2.5)
+  - TOCropViewController (2.4.0)
+  - "UITextView+Placeholder (1.2.1)"
+
+DEPENDENCIES:
+  - AAPullToRefresh
+  - AFNetworking
+  - "AFNetworking+ImageActivityIndicator"
+  - GoogleMaps
+  - GooglePlacePicker
+  - GooglePlaces
+  - GoogleSignIn
+  - GUIPlayerView (~> 0.0.4)
+  - IQDropDownTextField
+  - IQKeyboardManager
+  - LDProgressView
+  - LLSimpleCamera
+  - LMMediaPlayer
+  - MBProgressHUD
+  - MGSwipeTableCell
+  - NJKWebViewProgress
+  - "NSDate+Helpers"
+  - NSDate-Escort
+  - NSDate-Time-Ago
+  - NSDate-TimeDifference
+  - "NSString+Case"
+  - "NSString+VTContainsSubstring"
+  - NSString-Email
+  - NSString-UrlEncode
+  - Reachability
+  - SDWebImage
+  - SPGooglePlacesAutocomplete
+  - SVProgressHUD
+  - TOCropViewController
+  - "UITextView+Placeholder"
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - AAPullToRefresh
+    - AFNetworking
+    - "AFNetworking+ImageActivityIndicator"
+    - GoogleMaps
+    - GooglePlacePicker
+    - GooglePlaces
+    - GoogleSignIn
+    - GoogleToolboxForMac
+    - GTMSessionFetcher
+    - GUIPlayerView
+    - IQDropDownTextField
+    - IQKeyboardManager
+    - LDProgressView
+    - LLSimpleCamera
+    - LMMediaPlayer
+    - MBProgressHUD
+    - MGSwipeTableCell
+    - NJKWebViewProgress
+    - "NSDate+Helpers"
+    - NSDate-Escort
+    - NSDate-Time-Ago
+    - NSDate-TimeDifference
+    - "NSString+Case"
+    - "NSString+VTContainsSubstring"
+    - NSString-Email
+    - NSString-UrlEncode
+    - Reachability
+    - SDWebImage
+    - SPGooglePlacesAutocomplete
+    - SVProgressHUD
+    - TOCropViewController
+    - "UITextView+Placeholder"
+
+SPEC CHECKSUMS:
+  AAPullToRefresh: 9170fe976bad38329656fc852ee84f8095d3718e
+  AFNetworking: 8dd5f9b9691e09186393069a12cc3b5ed7c8b511
+  "AFNetworking+ImageActivityIndicator": 2d1a65e082909f6c5f0e8af0ae810e1118e5f21c
+  GoogleMaps: fd5c9fa58871781b9fb94d4936f19c69fe60ce32
+  GooglePlacePicker: 0c90898945f02ef36cce86fc9a107e1c5d3d26b1
+  GooglePlaces: f09e76993c9c3ee4af8f4f7f535bb94d6aa3b649
+  GoogleSignIn: 7ff245e1a7b26d379099d3243a562f5747e23d39
+  GoogleToolboxForMac: ff31605b7d66400dcec09bed5861689aebadda4d
+  GTMSessionFetcher: 32aeca0aa144acea523e1c8e053089dec2cb98ca
+  GUIPlayerView: 659256b3aefdd5d1041782ea40faaee250429f41
+  IQDropDownTextField: 3d2e5728a2b83ff5dbb14cb9b497a80005124cbe
+  IQKeyboardManager: 6194101620b73af5e67900b8f89707a99de0b804
+  LDProgressView: f6afc7c30d2a9edf33001515f3189338567a32d2
+  LLSimpleCamera: 7175ccb81be71c83d79933089322eb662b1f0327
+  LMMediaPlayer: 8d9371d760cf3267d87292377d4809adc3afc3bf
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  MGSwipeTableCell: dc4eca3212ed38a563b27d6aa7b3c01ce656c1e2
+  NJKWebViewProgress: f481fd424cb5ecc27eacae11b5397db92fba9a4d
+  "NSDate+Helpers": 0da797ac3e0d663ed9ee7387df4c500256cc3343
+  NSDate-Escort: 71cd19bc0477ef42e3cbf939c99f08abb50cfde3
+  NSDate-Time-Ago: e9de167d0659ebe465c273e833e7b582f061fc41
+  NSDate-TimeDifference: 5801d8263e2586acca6f7199ba25aa80ea9f8272
+  "NSString+Case": 3665c62c78c9578b64b4719caef6d784df2f46be
+  "NSString+VTContainsSubstring": 2feffb8e8516d14f6228c55250534dab16b60264
+  NSString-Email: 3c1ff0ace64d7ecc289ea2a5696170c853012252
+  NSString-UrlEncode: 92dcb01cac33ef036cda76baf0e4378b18779e47
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: 3f3f0c02f09798048c47a5ed0a13f17b063572d8
+  SPGooglePlacesAutocomplete: 8adac6930adf6f01fe82c06efe96d8deb385fb5b
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  TOCropViewController: 368d8df3ea43b62c3dc5a61f11b9048274d240bd
+  "UITextView+Placeholder": 0c3efd97f37ea64bde7f34cc6e90fe02e87b3909
+
+PODFILE CHECKSUM: 373c284ac754eb6d6c473b2f1802a05b6482d2e2
+
+COCOAPODS: 1.6.1
